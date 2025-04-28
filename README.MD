@@ -1,6 +1,4 @@
-
-# tp2 - CHEN Mick - gestion branches et merge
-
+# tp2 - Branches, merge et rebase -CHEN Mick |
 
 Ceci est une description du projet dans le README.md - rebase
 Cette phrase concerne la partie rebase du TP2 (Feature4)
