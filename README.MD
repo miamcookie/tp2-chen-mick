@@ -1,5 +1,5 @@
 
-# tp2 - Branches, merge et rebase - CHEN Mick |
+# tp2 - CHEN Mick - gestion branches et merge
 
 
 Ceci est une description du projet dans le README.md - rebase
