@@ -1,2 +1,3 @@
 tp2 Mchen fichier reponse
 2) la fusion c'est bien passer, aucune erreur
+7) la fusion de feature2 avec la branch dévelop c'est bien passer mais la fusion de feature3 avec develop cause probleme.
