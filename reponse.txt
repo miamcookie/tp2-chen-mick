@@ -1,3 +1,5 @@
 tp2 Mchen fichier reponse
 2) la fusion c'est bien passer, aucune erreur
 7) la fusion de feature2 avec la branch dévelop c'est bien passer mais la fusion de feature3 avec develop cause probleme.
+7) merge permet de combiner 2 branche différente
+8) git rebase permet de crée une continuité dans la branch main, cela nous a permit de modifier et d'avoir la suite sans faire de merge
